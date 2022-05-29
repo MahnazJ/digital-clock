@@ -1,0 +1,28 @@
+body {
+    background: #2E6171;
+}
+
+h1 {
+    font-size: 4em;
+    text-align: center;
+    margin:150px auto;
+    color: #D4AFCD;
+    font-family:arial;
+}
+
+.clock {
+    font-size: 4em;
+    text-align: center;
+    margin:100px auto;
+    color: #2E6171;
+    font-family:arial;
+}
+
+.clock span{
+    padding: 30px;
+    background: #D4AFCD;
+    border-radius: 50%;
+    box-shadow: 5px 10px 20px #2E6171 inset;
+}
+
+
